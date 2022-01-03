@@ -1,0 +1,1 @@
+fun = lambda word : "".join([x+x for x in word])
